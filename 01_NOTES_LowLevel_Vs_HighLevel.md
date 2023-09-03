@@ -23,4 +23,4 @@
 - `Slower` than `Low Level` Language
 - `Readable`
 - Compiled / Interpreted Language 
-- Nearly dependent(Independent) of System Architecture
+- Nearly dependent(Independent) on System Architecture
