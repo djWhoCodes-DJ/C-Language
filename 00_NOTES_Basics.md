@@ -4,7 +4,7 @@
 - These `set of instructions` are known as `programs`.
 
 ---
-<<<<<<< HEAD
+
 
 #### 2. Need Of High Level Language
 - Low level langauges are machine specific
@@ -18,7 +18,6 @@
 - In Bell Labs.
 - Before `C`, we had `B langauge`.
 - `Unix OS` was written in `B` language, and to overcome some limitations we used `C`.
-- `C is a system programming language`: It means many systems are written in C langauge. Ex: Orac;e, Android libraries, Device Drivers etc
+- `C is a system programming language`: It means many systems are written in C langauge. Ex: Oracle, Android libraries, Device Drivers etc
 - `Compiled Language` : C program -> Compiler -> Object Code
-=======
->>>>>>> 4fa182e83b3601a745732b5a955994cedd6279e6
+
