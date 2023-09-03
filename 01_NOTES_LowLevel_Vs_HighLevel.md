@@ -9,4 +9,15 @@
 
 
 #### Assembly Level Language
-- 
+- Readable than Machine Level
+- Makes use of symbols and Mnemonics
+- `Assembler` converts this code into `machine code`.
+- `Slower` than `Machine level`
+- `Dependent` on Computer Architecture: Assembly level is specifically designed for specific system.
+
+---
+
+## High Level Language
+- Close to humans
+- Far from systems
+- `Slower` than `Low Level` Language
