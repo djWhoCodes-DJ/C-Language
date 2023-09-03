@@ -1,10 +1,10 @@
 ## Low Level Language
 
 #### Machine Level Language
-- Written according to the system architecture
-- Execution is fast. No need of compilation
+- Written according to the `system architecture`
+- Execution is `fast`. No need of compilation
 - Hard to understand by humans
-- Programs are not portable, because of different instruction set sizes
+- Programs are `not portable`, because of different instruction set sizes
 
 
 
@@ -21,3 +21,5 @@
 - Close to humans
 - Far from systems
 - `Slower` than `Low Level` Language
+- `Readable`
+- Compiled / Interpreted Language 
