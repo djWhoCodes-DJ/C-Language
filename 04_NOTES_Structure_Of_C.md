@@ -19,7 +19,7 @@
 - #include<conio.h> : getch  | Console Input Output
 - #include<string.h> : strlen
 
-4. `Definition Section`
+4. `Definition Section : Macros`
 - #define varName varValue
 - #define PI 3.14
 
