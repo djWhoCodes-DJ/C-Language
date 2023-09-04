@@ -12,4 +12,3 @@
 - Ex: _var1
 - No special symbols, except '_'
 - Case sensitive
-- 
