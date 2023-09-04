@@ -8,7 +8,7 @@
 
 ---
 
-1. `Integer`
+#### 1. Integer
 - Ex: 10, 5, 1
 - It comprises of :
     - Decimal : `0-9`| `Base 10`
@@ -17,12 +17,12 @@
 - `05` comes under Octal Numeric Integer Constant
 - `Hexadecimal` : 0x, 0x7F, 0x4, 0xB | 0-9 | A-F
 
-2. `Floating Point`
+#### 2. Floating Point
 - 12.56 : Integer + Fraction part
 
 ---
 
-3. `Character`
+#### 3. Character
 - 'a', '3', '/t', '/0'
 - Enclosed inside single quotes
 - `ASCII` : 
@@ -33,7 +33,7 @@
 - printf("%d", 'a') : o/p = 97
 - printf("%c", 97) : o/p : a
 
-4. `String`
+#### 4. String
 - Sequence of characters
 - "abc", "1234", "ab$", "a"
 - "Debu" : Compiler stores address of first character, 'D'
@@ -42,6 +42,6 @@
 
 ---
 
-5. `const`
+#### 5. const
 - const int a = 10;
 - a = 50; | Error | This cannot be changed
