@@ -12,7 +12,6 @@
     - char
     - double
     - void
-    - bool
 - Derived
     - Arrays
     - Structure
