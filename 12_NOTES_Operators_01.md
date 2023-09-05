@@ -1,14 +1,14 @@
 ## Operators - 1
 - It is a symbol, that tells the computer which operation is to be performed on the operands
 - Expression = Operands + Operators
-- Types of `Operators` based on `Operands`:
-    - ### Unary : 1 Operand
+- ### Types of `Operators` based on `Operands`:
+    - #### Unary : 1 Operand
         - `-` -> Unary Minus
         - `++` , `--`
         - `!`   -> Logical Not
         - `&`   -> Address Of
         - `sizeof()` operator
-    - ### Binary : 2 Operands
+    - #### Binary : 2 Operands
         - `Arithmetic`  : (+, -, *, /)
         - `Relational`  : (<, >, <=, >=)
         - `Logical`     : (&&, ||)
@@ -16,7 +16,7 @@
         - `Equality`    : (==, !=)
         - `Comma`       : (,)
         - `Assignement` : (=)
-    - ### Ternary : 3 Operands
+    - #### Ternary : 3 Operands
         - ? :
         - (expression 1) ? (output expression 2) : (output expression 3)
         - Out of 2 & 3, only 1 output will be evaluated
