@@ -34,3 +34,11 @@
 - a = b = c = d = 10
 - (a = (b = (c = (d = 10))))
 - a = a + 1 | a += 1 
+
+
+---
+
+### Prefix & Postfix
+![Alt text](Screenshot_2023-09-05-23-00-26-69_f9ee0578fe1cc94de7482bd41accb329.jpg)
+
+![Alt text](Screenshot_2023-09-05-23-02-16-92_f9ee0578fe1cc94de7482bd41accb329.jpg)
