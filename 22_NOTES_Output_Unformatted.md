@@ -28,3 +28,4 @@
 - puts("Devanshu Jain")
 - string ch = "Devanshu"
 - puts(ch)
+- puts('a') | Error
