@@ -30,7 +30,6 @@ int main(){
         default : 
          printf("Invalid Operation");
     }
-    printf("Enter any number: ");
-    scanf("%d", exit);
+    getch();
     return 0;
 }
