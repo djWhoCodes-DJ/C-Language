@@ -31,5 +31,6 @@ int main(){
          printf("Invalid Operation");
     }
     getch();
+    getch();
     return 0;
 }
