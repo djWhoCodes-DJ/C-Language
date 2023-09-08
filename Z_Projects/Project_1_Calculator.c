@@ -2,7 +2,7 @@
 #include <conio.h>
 
 int main(){
-    int num1, num2;
+    int num1, num2, exit;
     char dump, op;
 
     
@@ -30,7 +30,7 @@ int main(){
         default : 
          printf("Invalid Operation");
     }
-    getch();
-    getch();
+    printf("Enter any number: ");
+    scanf("%d", exit);
     return 0;
 }
