@@ -25,6 +25,9 @@
 ---
 
 ### Else if Ladder
+- In `Else if` ladder, `else` statement is `not mandatory`
+
 ![Alt text](Screenshot_2023-09-08-19-24-54-02_f9ee0578fe1cc94de7482bd41accb329.jpg)
 
 ![Alt text](Screenshot_2023-09-08-19-20-40-28_f9ee0578fe1cc94de7482bd41accb329.jpg)
+
