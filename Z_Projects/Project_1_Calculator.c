@@ -30,6 +30,6 @@ int main(){
         default : 
          printf("Invalid Operation");
     }
-
+    getch();
     return 0;
 }
