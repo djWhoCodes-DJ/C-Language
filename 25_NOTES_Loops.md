@@ -41,5 +41,8 @@
 
 ![Alt text](Screenshot_2023-09-09-06-17-13-71_f9ee0578fe1cc94de7482bd41accb329.jpg)
 
-
+---
+### Scopes
+![Alt text](IMG_20230909_072115.jpg)
+![Alt text](IMG_20230909_072046.jpg) 
 
