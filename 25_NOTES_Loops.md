@@ -47,6 +47,18 @@
 ![Alt text](IMG_20230909_072115.jpg)
 
 ---
-## Exit Control Loop
+## While Loop
 
-![Alt text](Screenshot_2023-09-09-10-54-52-17_f9ee0578fe1cc94de7482bd41accb329.jpg) ![Alt text](Screenshot_2023-09-09-08-45-53-62_f9ee0578fe1cc94de7482bd41accb329.jpg) ![Alt text](Screenshot_2023-09-09-09-18-33-10_f9ee0578fe1cc94de7482bd41accb329.jpg) ![Alt text](Screenshot_2023-09-09-09-13-46-18_f9ee0578fe1cc94de7482bd41accb329.jpg) ![Alt text](Screenshot_2023-09-09-09-27-46-08_f9ee0578fe1cc94de7482bd41accb329.jpg) ![Alt text](Screenshot_2023-09-09-09-29-49-47_f9ee0578fe1cc94de7482bd41accb329.jpg) ![Alt text](Screenshot_2023-09-09-09-15-34-42_f9ee0578fe1cc94de7482bd41accb329.jpg) ![Alt text](Screenshot_2023-09-09-09-20-40-96_f9ee0578fe1cc94de7482bd41accb329.jpg) ![Alt text](Screenshot_2023-09-09-10-39-24-10_f9ee0578fe1cc94de7482bd41accb329.jpg) ![Alt text](Screenshot_2023-09-09-10-42-20-07_f9ee0578fe1cc94de7482bd41accb329.jpg)
+![Alt text](Screenshot_2023-09-09-08-45-53-62_f9ee0578fe1cc94de7482bd41accb329.jpg) 
+![Alt text](Screenshot_2023-09-09-09-18-33-10_f9ee0578fe1cc94de7482bd41accb329.jpg)
+ ![Alt text](Screenshot_2023-09-09-09-13-46-18_f9ee0578fe1cc94de7482bd41accb329.jpg) 
+![Alt text](Screenshot_2023-09-09-09-27-46-08_f9ee0578fe1cc94de7482bd41accb329.jpg) 
+![Alt text](Screenshot_2023-09-09-09-29-49-47_f9ee0578fe1cc94de7482bd41accb329.jpg) 
+![Alt text](Screenshot_2023-09-09-09-15-34-42_f9ee0578fe1cc94de7482bd41accb329.jpg) 
+![Alt text](Screenshot_2023-09-09-09-20-40-96_f9ee0578fe1cc94de7482bd41accb329.jpg) 
+
+---
+## Exit Control Loop
+![Alt text](Screenshot_2023-09-09-10-39-24-10_f9ee0578fe1cc94de7482bd41accb329.jpg) 
+![Alt text](Screenshot_2023-09-09-10-42-20-07_f9ee0578fe1cc94de7482bd41accb329.jpg)
+![Alt text](Screenshot_2023-09-09-10-54-52-17_f9ee0578fe1cc94de7482bd41accb329.jpg) 
