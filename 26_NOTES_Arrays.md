@@ -47,7 +47,13 @@
             - for(int i=0; i<5; i++){
                 scanf("%d", &a[i]);
             }
-        
+
+---
+
+### Memory Representation & Accessing in Array
+![Alt text](Screenshot_2023-09-10-10-00-09-95_f9ee0578fe1cc94de7482bd41accb329.jpg)
+
+![Alt text](Screenshot_2023-09-10-10-05-00-30_f9ee0578fe1cc94de7482bd41accb329.jpg)
     
 
     
