@@ -6,7 +6,7 @@
 - Total memory allocation = (size)*(sizeof_Datatype)
 
 --- 
-### Initialisation of 2-D Arrays
+## Initialisation of 2-D Arrays
 - ### `At Compile Time`
     - `int a[2][3] = {1,1,1,2,2,2}`
         - Memory Representation 
@@ -46,3 +46,12 @@
                 scanf("%d", &a[i][j]);
             }
         }
+
+---
+## Accessing and Memory Representation
+
+![Alt text](Screenshot_2023-09-11-06-50-15-96_f9ee0578fe1cc94de7482bd41accb329.jpg)
+
+![Alt text](Screenshot_2023-09-11-06-45-19-39_f9ee0578fe1cc94de7482bd41accb329.jpg)
+
+![Alt text](IMG_20230911_072752.jpg)
