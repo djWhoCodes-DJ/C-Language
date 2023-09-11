@@ -38,8 +38,8 @@
             - a[4] = 4;
         - int a[5] = {};
             - Error
-        - `char b[] = {'D' , 'e' , 'v' , 'u' }`
-        - `char b[10] = {'D', 'e', 'v', 'u'};`
+        - `char b[] = {'D' , 'e' , 'v' , 'u', '\0'}`
+        - `char b[10] = {'D', 'e', 'v', 'u', '\0'};`
             - Other values will be initialised with `NULL` 
         
     - ### `Run Time`
