@@ -3,9 +3,9 @@
 #include<string.h>
 
 int main(){
-    char name[13], name1[2];
-    scanf("%s%s", name, name1);
-    printf("%s%s", name, name1);
+    char s1[9] = "DevAnshu";
+    strupr(s1);
+    puts(s1);
 
     return 0;
 }

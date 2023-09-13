@@ -78,5 +78,3 @@
 - `puts` is defined in `stdio` library
 - `printf("%s", name)` = `printf("%s", &name)` = `printf("%s", &name[0])`
 - `printf("%s", &name[3])` | i/p : Devanshu | o/p : anshu
-
-
