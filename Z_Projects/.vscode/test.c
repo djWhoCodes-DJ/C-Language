@@ -3,11 +3,10 @@
 #include<string.h>
 
 int main(){
-    char name[] = {'D', 'e', 'v', 'a', '\0'};
-    char s2[10];
-    s2 = "devanshu";
-    printf("%s\n", name);
-    
+    char name[13], name1[2];
+    scanf("%s%s", name, name1);
+    printf("%s%s", name, name1);
+
     return 0;
 }
 
